@@ -1,0 +1,7 @@
+lebensmitteldatenbank/
+├── lebensmittel_gui.py         # Haupt-GUI-Anwendung
+├── datenbank.sqlite            # SQLite-Datenbank (optional vorbefüllt)
+├── assets/                     # Icons, Farbschemata, ggf. Fonts
+├── utils/                      # Hilfsfunktionen (z. B. Einheitenskalierung)
+├── requirements.txt            # Python-Abhängigkeiten
+└── README.md                   # Diese Datei
